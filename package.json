@@ -1,0 +1,11 @@
+{
+  "engines": {
+    "node": "20.9.0",
+    "yarn": "1.22.19",
+    "npm": "10.1.0"
+  },
+  "license": "MIT",
+  "name": "Discovery-Teaching",
+  "author": "The Tarimo Research Lab",
+  "version": "2.6"
+}
